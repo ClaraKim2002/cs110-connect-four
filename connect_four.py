@@ -27,6 +27,7 @@ class Board():
         If there is currently a winner, return "R" or "B" depending on who 
         won the game. Otherwise return None
         """
+        pass
 
 
 def draw_board(b):
